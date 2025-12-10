@@ -1,2 +1,2 @@
-Hola estoy cansado de absolutamente todo
+Git es un sistema de control de versiones ideado por Linus Torvalds.
 
